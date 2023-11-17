@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaapas&label=Profile%20views&color=0e75b6&style=flat" alt="kaapas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaapas" alt="kaapas" /></a> </p>
-
 - 💬 Ask me about **HTML , CSS ,JS , REACT**
 
 - 📫 How to reach me **kaapa1011@gmail.com**
